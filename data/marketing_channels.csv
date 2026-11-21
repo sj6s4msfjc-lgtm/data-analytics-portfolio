@@ -1,7 +1,0 @@
-channel_id,channel_name,channel_type
-1,organic_search,organic
-2,referral,organic
-3,search_ads,paid
-4,social_ads,paid
-5,creator,partner
-6,unknown,unknown
