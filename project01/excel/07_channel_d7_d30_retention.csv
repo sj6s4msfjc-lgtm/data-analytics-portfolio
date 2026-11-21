@@ -1,0 +1,7 @@
+"channel_id","channel_name","eligible_users","retained_users_d7","retention_rate_d7_pct","retained_users_d30","retention_rate_d30_pct"
+2,referral,6084,2502,41.12,1289,21.19
+1,organic_search,10153,3972,39.12,1932,19.03
+3,search_ads,9011,3577,39.70,1637,18.17
+5,creator,6235,2364,37.91,1100,17.64
+4,social_ads,12992,4982,38.35,2034,15.66
+6,unknown,1405,541,38.51,217,15.44

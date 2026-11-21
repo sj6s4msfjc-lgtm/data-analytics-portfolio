@@ -1,0 +1,7 @@
+"channel_id","channel_name","eligible_first_orders","refunded_first_orders_30d","first_order_refund_rate_30d_pct","first_order_paid_amount","first_order_refund_amount_30d"
+1,organic_search,1993,82,4.11,246037.00,9178.00
+2,referral,1509,72,4.77,181801.00,9448.00
+3,search_ads,1567,70,4.47,193993.00,8160.00
+4,social_ads,1282,56,4.37,155588.00,6574.00
+5,creator,895,30,3.35,107095.00,3160.00
+6,unknown,139,7,5.04,17981.00,1243.00

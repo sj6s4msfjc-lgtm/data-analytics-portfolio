@@ -1,0 +1,13 @@
+"expiry_month","channel_name","activity_group","eligible_cycles","renewed_cycles","group_share_pct","renewal_rate_pct"
+"2025-10",creator,"0天",44,33,26.83,75.00
+"2025-11",creator,"0天",37,24,21.89,64.86
+"2025-10",creator,"1-2天",77,50,46.95,64.94
+"2025-11",creator,"1-2天",86,42,50.89,48.84
+"2025-10",creator,"3天及以上",43,25,26.22,58.14
+"2025-11",creator,"3天及以上",46,25,27.22,54.35
+"2025-10",organic_search,"0天",149,99,29.39,66.44
+"2025-11",organic_search,"0天",107,69,24.15,64.49
+"2025-10",organic_search,"1-2天",251,171,49.51,68.13
+"2025-11",organic_search,"1-2天",249,150,56.21,60.24
+"2025-10",organic_search,"3天及以上",107,69,21.10,64.49
+"2025-11",organic_search,"3天及以上",87,47,19.64,54.02

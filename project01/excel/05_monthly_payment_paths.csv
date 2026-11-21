@@ -1,0 +1,13 @@
+"register_month","channel_name","eligible_users","all_paid_users_30d","complete_then_pay_users","start_then_pay_before_complete_users","pay_without_prior_trial_users"
+"2025-08",organic_search,990,202,162,26,14
+"2025-09",organic_search,674,135,116,16,3
+"2025-08",referral,667,159,127,27,5
+"2025-09",referral,362,84,67,15,2
+"2025-08",search_ads,889,149,118,24,7
+"2025-09",search_ads,698,129,97,24,8
+"2025-08",social_ads,916,104,75,19,10
+"2025-09",social_ads,1856,189,148,23,18
+"2025-08",creator,620,76,62,12,2
+"2025-09",creator,479,54,44,7,3
+"2025-08",unknown,139,15,13,1,1
+"2025-09",unknown,105,13,9,3,1

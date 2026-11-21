@@ -1,0 +1,4 @@
+"table_name","field_name","total_rows","missing_rows","missing_rate_pct"
+users,age_group,50000,2466,4.93
+users,city_tier,50000,2013,4.03
+user_events,device,1420694,13693,0.96

@@ -1,0 +1,7 @@
+"channel_id","channel_name","eligible_users","trial_start_users","trial_complete_users","funnel_paid_users","all_paid_users_30d","register_to_trial_pct","trial_to_complete_pct","complete_to_first_pay_pct"
+1,organic_search,10153,7540,4813,1617,2047,74.26,63.83,33.60
+2,referral,6084,5113,3242,1211,1545,84.04,63.41,37.35
+3,search_ads,9011,6524,4192,1279,1616,72.40,64.26,30.51
+4,social_ads,12992,7325,4641,1076,1360,56.38,63.36,23.18
+5,creator,6235,4351,2740,722,928,69.78,62.97,26.35
+6,unknown,1405,766,480,114,142,54.52,62.66,23.75
